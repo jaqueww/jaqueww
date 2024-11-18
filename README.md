@@ -15,8 +15,8 @@
 
     <section class="chamada">
         <div class="chamada-texto">
-            <h1>ATRAVÉS DO ARANHAVERSO</h1>
-            <p>#homem-aranha</p>
+            <h1>PARA TODOS GAROTOS QUE JÁ AMEI</h1>
+            <p>#um dia</p>
         </div>
 
         <div>
